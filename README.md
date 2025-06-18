@@ -36,5 +36,8 @@ This is a **showcase-only repository**. The source code is private for academic 
 ---
 
 ## 📜 License
-© 2025 Bhagya E.M.P. All rights reserved.  
-This project is protected under academic copyright. Unauthorized use or reproduction of the code is prohibited.
+
+This project is licensed under the Creative Commons BY-NC-ND 4.0 License.  
+© 2025 Bhagya E.M.P. All rights reserved.
+
+Use for educational/non-commercial purposes only. Contact me for permissions.
